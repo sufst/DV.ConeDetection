@@ -1,0 +1,4 @@
+train: data/images/train
+val: data/images/val
+nc: 2
+names: ['cone' , 'non-cone']
